@@ -1,24 +1,24 @@
 # Site settings
-title: PHOTORAMA
+title: Brijesh Chawla
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://learningdotnet17.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "brijeshchawla17"
 github_username:  ""
 deviantart_username: ""
-flickr_username: ""
+flickr_username: "brijeshchawla"
 discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Brijesh Chawla
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Photography Website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://learningdotnet17.github.io/photorama/gallery/"  
+  - JOURNAL: "https://learningdotnet17.github.io/photorama/journal/"
+  - ABOUT: "https://learningdotnet17.github.io/photorama/about/"
 
 # All translation keys
 translations:
