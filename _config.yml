@@ -1,16 +1,16 @@
 # Site settings
 title: Brijesh Chawla
-email: ""
+email: "info@brijeshchawla.com"
 description: "Photo Journal"
 url: "https://learningdotnet17.github.io"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
+facebook_username: "brijesh.chawla"
+# twitter_username: ""
 instagram_username: "brijeshchawla17"
-github_username:  ""
-deviantart_username: ""
+# github_username:  ""
+# deviantart_username: ""
 flickr_username: "brijeshchawla"
-discus_shortname: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
