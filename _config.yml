@@ -2,7 +2,7 @@
 title: Brijesh Chawla
 email: "info@brijeshchawla.com"
 description: "Photo Journal"
-url: "https://learningdotnet17.github.io"
+url: "https://brijeshchawla.com"
 baseurl: ""
 facebook_username: "brijesh.chawla"
 # twitter_username: ""
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://learningdotnet17.github.io/photorama/gallery/"  
-  - JOURNAL: "https://learningdotnet17.github.io/photorama/journal/"
-  - ABOUT: "https://learningdotnet17.github.io/photorama/about/"
+  - GALLERY: "https://brijeshchawla.com/gallery/"  
+  - JOURNAL: "https://brijeshchawla.com/journal/"
+  - ABOUT: "https://brijeshchawla.com/about/"
 
 # All translation keys
 translations:
